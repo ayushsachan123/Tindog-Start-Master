@@ -1,7 +1,5 @@
 
-# CSS-My Site
-
-Tindog-Start-Master
+# Tindog-Start-Master
 
 
 ## Running the Website in Local Machine
